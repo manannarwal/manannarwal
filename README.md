@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/manan__narwal" target="blank"><img src="https://img.shields.io/twitter/follow/manan__narwal?logo=twitter&style=for-the-badge" alt="manan__narwal" /></a> </p>
 
-- 🌱 I’m currently learning **C++, C#, MERN**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **C, Web Dev.**
 
