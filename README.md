@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C, Web Dev.**
 
-- 📫 How to reach me **manannarwal.me**
+- 📫 How to reach me **https://manannarwal.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
