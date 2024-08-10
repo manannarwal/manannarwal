@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C, Web Dev.**
 
-- 📫 How to reach me **manannarwal12345@gmail.com**
+- 📫 How to reach me **manannarwal.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
